@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset = "UTF-8"/>
+    <title>Guessing Game</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Ghost Game</h1>
+    <p>It is very boring to be a ghost! I used to play jump rope and jacks, but now I can't touch anything.</p>
+    <p>Will you play a game with me?</p>
+    <div id="ghost">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+        	 viewBox="0 0 389.16 220.14" style="enable-background:new 0 0 389.16 220.14;" xml:space="preserve">
+        <path id="ghost-body" d="M199.4,90.97c-20.94,0-37.91,16.97-37.91,37.91v86.35l8.73-10.82l8.6,10.82l10.84-10.82l9.74,10.82l8.56-10.82
+        	l9.85,10.82l10.77-10.82l8.73,10.82v-86.35C237.32,107.95,220.34,90.97,199.4,90.97z"/>
+        <circle class="outer-eye" cx="185.37" cy="127.11" r="5.39"/>
+        <circle class="outer-eye" cx="212.41" cy="126.88" r="5.15"/>
+        <circle class="inner-eye" cx ="212.61" cy="129.05" r="2.81"/>
+        <circle class="inner-eye" cx="185.37" cy="129.05" r="2.81"/>
+        <circle id="open-mouth" cx="199.32" cy="146.05" r="6.67" opacity="0"/>
+        <line id="neutral-mouth" x1="192.65" y1="146.05" x2="205.99" y2="146.05" opacity="0"/>
+        <path id="make-sad" d="M205.99,146.17c0,3.83-2.99,6.93-6.67,6.93s-6.67-3.1-6.67-6.93" opacity="0"/>
+        <path id="make-happy" d="M192.65,146.05c0-3.68,2.99-6.67,6.67-6.67s6.67,2.99,6.67,6.67" opacity="0"/>
+        <g id="thought-bubble-1">
+          <circle cx="242.95" cy="115.15" r="3.12"/>
+        	<circle cx="255.45" cy="108.12" r="4.44"/>
+        	<circle cx="267.6" cy="96.58" r="5.84"/>
+        	<path d="M361.87,22.78c-2.56,0-5.03,0.37-7.36,1.05c-4.15-6.44-11.7-10.76-20.35-10.76c-6.87,0-13.04,2.73-17.37,7.07
+        		c-4.21-2.38-9.14-3.77-14.43-3.77c-9.61,0-18.09,4.53-23.1,11.41c-3.14-2.97-7.5-4.82-12.33-4.82c-9.55,0-17.28,7.2-17.28,16.08
+        		c0,3.97,1.56,7.6,4.12,10.41c-4.31,3.5-7.05,8.65-7.05,14.39c0,10.56,9.2,19.12,20.55,19.12c3.07,0,5.96-0.64,8.58-1.76
+        		c3.39,9.2,12.74,15.82,23.78,15.82c10.35,0,19.23-5.82,23.09-14.13c2.75,1.2,5.81,1.89,9.05,1.89c11.14,0,20.28-7.94,21.25-18.07
+        		c2.74,0.99,5.72,1.56,8.84,1.56c13.5,0,24.45-10.18,24.45-22.75S375.37,22.78,361.87,22.78z"/>
+        </g>
+        <line id="left-brow" x1="181.55" y1="110.07" x2="194.08" y2="122.59" opacity="0"/>
+        <line id="right-brow" x1="217.06" y1="110.07" x2="204.53" y2="122.59" opacity="0"/>
+        </svg>
+        <p id="feedback-form">I'm thinking of a number between 1 and 100. Can you guess it?</p>
+        <!-- <p id="feedback-form">Go ahead! Take a guess and I'll tell you what I think!</p> -->
+      </div>
+    <form id="number-guess">
+      <input type="number" name="quantity" min="1" max="100">
+      <input type="submit" value ="Guess!">
+      <p>Tries: <span id="tries">0</span>
+    </form>
+  </body>
+  <script src = "guessing-game.js"></script>
+</html>

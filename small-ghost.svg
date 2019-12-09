@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300.78 230.68" style="enable-background:new 0 0 300.78 230.68;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:1.1489;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:1.1489;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:1.2674;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:2.5842;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:2.5348;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.7212;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.9494;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-width:2.1771;stroke-miterlimit:10;}
+	.st8{fill:none;}
+	.st9{font-family:'MyriadPro-Regular';}
+	.st10{font-size:12px;}
+	.st11{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M63.85,90.97c-20.94,0-37.91,16.97-37.91,37.91v86.35l8.73-10.82l8.6,10.82l10.84-10.82l9.74,10.82l8.56-10.82
+	l9.85,10.82l10.77-10.82l8.73,10.82v-86.35C101.76,107.95,84.79,90.97,63.85,90.97z"/>
+<circle class="st0" cx="49.81" cy="127.11" r="5.39"/>
+<circle class="st0" cx="76.85" cy="126.88" r="5.15"/>
+<circle class="st1" cx="77.05" cy="129.05" r="2.81"/>
+<circle class="st1" cx="49.81" cy="129.05" r="2.81"/>
+<circle id="open-mouth" class="st2" cx="63.76" cy="146.05" r="6.67"/>
+<path id="make-sad" class="st3" d="M70.43,146.17c0,3.83-2.99,6.93-6.67,6.93c-3.68,0-6.67-3.1-6.67-6.93"/>
+<path id="make-happy" class="st4" d="M57.09,146.05c0-3.68,2.99-6.67,6.67-6.67c3.68,0,6.67,2.99,6.67,6.67"/>
+<g id="thought-bubble">
+	<circle class="st5" cx="107.39" cy="115.15" r="3.12"/>
+	<circle class="st5" cx="119.89" cy="108.12" r="4.44"/>
+	<circle class="st6" cx="132.04" cy="96.58" r="5.84"/>
+	<path class="st7" d="M226.31,22.78c-2.56,0-5.03,0.37-7.36,1.05c-4.15-6.44-11.7-10.76-20.35-10.76c-6.87,0-13.04,2.73-17.37,7.07
+		c-4.21-2.38-9.14-3.77-14.43-3.77c-9.61,0-18.09,4.53-23.1,11.41c-3.14-2.97-7.5-4.82-12.33-4.82c-9.55,0-17.28,7.2-17.28,16.08
+		c0,3.97,1.56,7.6,4.12,10.41c-4.31,3.5-7.05,8.65-7.05,14.39c0,10.56,9.2,19.12,20.55,19.12c3.07,0,5.96-0.64,8.58-1.76
+		c3.39,9.2,12.74,15.82,23.78,15.82c10.35,0,19.23-5.82,23.09-14.13c2.75,1.2,5.81,1.89,9.05,1.89c11.14,0,20.28-7.94,21.25-18.07
+		c2.74,0.99,5.72,1.56,8.84,1.56c13.5,0,24.45-10.18,24.45-22.75S239.81,22.78,226.31,22.78z"/>
+</g>
+<g id="thought-bubble_1_">
+	<circle class="st5" cx="120.27" cy="122.18" r="4.44"/>
+	<circle class="st6" cx="132.42" cy="133.71" r="5.84"/>
+	<path class="st7" d="M166.02,125.05c2.56,0,5.03,0.37,7.36,1.05c4.15-6.44,11.7-10.76,20.35-10.76c6.87,0,13.04,2.73,17.37,7.07
+		c4.21-2.38,9.14-3.77,14.43-3.77c9.61,0,18.09,4.53,23.1,11.41c3.14-2.97,7.5-4.82,12.33-4.82c9.55,0,17.28,7.2,17.28,16.08
+		c0,3.97-1.56,7.6-4.12,10.41c4.31,3.5,7.05,8.65,7.05,14.39c0,10.56-9.2,19.12-20.55,19.12c-3.07,0-5.96-0.64-8.58-1.76
+		c-3.39,9.2-12.74,15.82-23.78,15.82c-10.35,0-19.23-5.82-23.09-14.13c-2.75,1.2-5.81,1.89-9.05,1.89
+		c-11.14,0-20.28-7.94-21.25-18.07c-2.74,0.99-5.72,1.56-8.84,1.56c-13.5,0-24.45-10.18-24.45-22.75
+		C141.58,135.23,152.52,125.05,166.02,125.05z"/>
+</g>
+<rect x="128.88" y="31.86" class="st8" width="98.02" height="46.88"/>
+<text transform="matrix(1 0 0 1 128.8819 40.3786)"><tspan x="0" y="0" class="st9 st10">Let’s play! Enter a </tspan><tspan x="0" y="14.4" class="st9 st10">number and I’ll tell </tspan><tspan x="0" y="28.8" class="st9 st10">you what I think.</tspan></text>
+<text transform="matrix(1 0 0 1 163.7146 144.4617)" class="st9 st10">Text will go here</text>
+<line class="st11" x1="57.09" y1="146.05" x2="70.43" y2="146.05"/>
+</svg>

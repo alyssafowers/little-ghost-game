@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Sulphur+Point&display=swap');
+
+body{
+  font-size: 10px;
+  width: 70%;
+  max-width: 900px;
+  min-width: 400px;
+  margin: auto;
+  font-family: "Sulphur Point", sans-serif;
+}
+
+p{
+  font-size: 1rem;
+}
+
+h1{
+  font-family: "Amatic SC", cursive;
+  font-size: 3rem;
+  text-align: center;
+}
+
+
+#ghost{
+  position: relative;
+  width: 450px;
+  margin: auto;
+}
+
+#feedback-form{
+  position: absolute;
+  left: 65%;
+  top: 11%;
+  width: 30%;
+}
+
+input[type=submit]{
+  width: 5rem;
+}
+
+input[type=number]{
+  width: 4rem;
+}
+
+input{
+  font-size: 1rem;
+  padding: .3rem;
+  margin: .2rem;
+}
+
+form{
+  width: 200px;
+  padding: 10px;
+  background-color: #DCDCDC;
+  text-align: center;
+  margin: auto;
+}
+
+form p{
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+#ghost path{
+  stroke: #000;
+  fill: none;
+}
+
+#left-brow, #right-brow{
+  stroke-width: 4;
+}
+
+#ghost #ghost-body{
+  fill: white;
+}
+
+#ghost circle{
+  stroke: #000;
+  fill: none;
+}
+
+#ghost line{
+  stroke: #000;
+}
+
+#ghost .inner-eye{
+  fill: #000;
+}
+
+#ghost #make-sad, #ghost #make-happy{
+  stroke: #fff;
+  stroke-width: 2;
+}
+
+#ghost p{
+  font-size: .7rem;
+  font-family: "Sulphur Point", sans-serif;
+  padding-left: 7px;
+}
